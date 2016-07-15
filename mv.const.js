@@ -1,6 +1,6 @@
 
 var V = require( 'mv.js' );
-    , BaseHandler = V = require( 'mv.basehandler.js' )
+    , BaseHandler = require( 'mv.basehandler.js' )
     ;
 
 V.Const = $.extend( true, V.Const || {}, {

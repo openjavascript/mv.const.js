@@ -1,5 +1,5 @@
 
-var V = require( 'mv.js' );
+var V = require( 'mv.js' )
     , BaseHandler = require( 'mv.basehandler.js' )
     ;
 

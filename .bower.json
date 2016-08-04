@@ -1,7 +1,7 @@
 {
   "name": "mv.const.js",
   "main": "mv.const.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/openjavascript/mv.const.js",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "mv.js": "~0.0.2"
+    "mv.js": "latest"
   },
   "moduleType": [
     "amd",
@@ -23,13 +23,13 @@
     "node_modules",
     "bower_components"
   ],
-  "_release": "0.0.1",
+  "_release": "0.0.3",
   "_resolution": {
     "type": "version",
-    "tag": "0.0.1",
-    "commit": "89300d140cb3c962fef5383c50d86d4a001974a2"
+    "tag": "0.0.3",
+    "commit": "3ec7231f01b1b15a75c464d876fcaccda04b237c"
   },
   "_source": "https://github.com/openjavascript/mv.const.js.git",
-  "_target": "~0.0.1",
+  "_target": "*",
   "_originalSource": "mv.const.js"
 }

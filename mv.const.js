@@ -76,5 +76,5 @@ V.Const = $.extend( true, V.Const || {}, {
     }
 }, BaseHandler );
 
-module.export = V.Const;
+module.exports = V.Const;
 
